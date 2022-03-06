@@ -19,4 +19,4 @@ Code Editor, JS Console, Git Hub (access code/clone)
 
 ### License
 
-MIT (c) {year2022} **Sarah Kamunya**
+MIT Copyright (c) 2022 **Sarah Kamunya**
