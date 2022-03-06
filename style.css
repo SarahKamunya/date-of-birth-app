@@ -13,11 +13,11 @@ body{
     font-family: cursive;
 }
 
-.button{
+#button{
     margin-top: 1.5rem;
    
 }
 
-.btn {
+.btn{
     text-transform: uppercase;
-}
+    
