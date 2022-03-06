@@ -1,7 +1,7 @@
-# {Akan Names}
+# Akan Names
 
-#### {6-March-2022}
-#### By **{Sarah Kamunya}**
+#### 6-March-2022
+#### By **Sarah Kamunya**
 ## Description
 A web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name which is from Ghanian culture.
 ![landing page](https://github.com/SarahKamunya/date-of-birth-app/blob/master/akanlanding.png)
