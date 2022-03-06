@@ -4,7 +4,7 @@ btn.addEventListener("click" , (e) =>{
 
     let myDOB = document.getElementById("date").value;
     let  myGender = document.getElementById("gender-id").value;
-    let message =document.getElementById("message")
+    //let message =document.getElementById("message")
     //let days = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
     let maleName =["Kwasi","Kwadwo","Kwaku","Yaw","Kofi","Kwame"];
     let femaleName =["Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"];
