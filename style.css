@@ -20,4 +20,26 @@ body{
 
 .btn{
     text-transform: uppercase;
+}
+
+.table{
+    color: #fff;
+    font-family: sans-serif;
+    width: 50%;
+    margin-top: 1.5rem;
+
+}
+
+P{
+    color: #fff;
+    font-family: cursive;
+    font-size: 20px;
+
+}
+
+.t1{
+    color: #fff;
+    text-transform: uppercase;
+    font-family: cursive;
+}
     
