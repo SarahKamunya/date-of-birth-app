@@ -21,14 +21,14 @@ btn.addEventListener("click" , (e) =>{
     
 if (myGender ==1) {
 
-  message.innerHTML = `Your Akan Name is ${maleName[weekDays]}`;
+  message.innerHTML = `Your Akan Name is ${maleName[weekDays]}!`;
 
 
 } 
 
 else if (myGender ==2) {
 
-    message.innerHTML = `Your Akan Name is ${femaleName[weekDays]}`;
+    message.innerHTML = `Your Akan Name is ${femaleName[weekDays]}!`;
   
 
 }
