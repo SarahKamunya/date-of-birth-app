@@ -27,7 +27,7 @@ body{
 .table{
     color: #fff;
     font-family: cursive;
-    width: 50px;
+    width: 60px;
     margin-top: 1.5rem;
 
 }
@@ -44,5 +44,11 @@ P{
     text-transform: uppercase;
     font-family: cursive;
 }
+
+.footer p{
+    font-size: 12px;
+    font-style: italic;
+}
+
 
     
