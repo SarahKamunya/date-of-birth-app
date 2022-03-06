@@ -4,6 +4,7 @@ btn.addEventListener("click" , (e) =>{
 
     let myDOB = document.getElementById("date").value;
     let  myGender = document.getElementById("gender-id").value;
+    let message =document.getElementById("message")
     //let days = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
     let maleName =["Kwasi","Kwadwo","Kwaku","Yaw","Kofi","Kwame"];
     let femaleName =["Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"];
@@ -20,10 +21,18 @@ btn.addEventListener("click" , (e) =>{
     
 if (myGender ==1) {
 
-  console.log( maleName[weekDays]);
+  message.innerHTML = `Your Akan Name is ${maleName[weekDays]}`;
 
+
+} 
+
+else if (myGender ==2) {
+
+    message.innerHTML = `Your Akan Name is ${femaleName[weekDays]}`;
+  
 
 }
+
 
 })
 
