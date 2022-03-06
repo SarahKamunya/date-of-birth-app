@@ -4,7 +4,7 @@ body{
     padding: 0;
 }
 
-/*.container{
+.container{
     margin: auto;
     padding: 20px;
     width: 500px;
@@ -13,7 +13,7 @@ body{
     font-family: cursive;
 }
 
-.button{
+/*.button{
     margin-top: 1.5rem;
    
 }
