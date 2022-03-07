@@ -12,25 +12,14 @@ btn.addEventListener("click" , (e) =>{
     let weekDays =myDateBirth.getDay();
 
 
-    //let date = myDateBirth.split('/');
-
-    //myDateBirth.toLocaleDateString('en-US', {weekDays
-    //:'long',}),
-
-
-    
-if (myGender ==1) {
+   if (myGender ==1) {
 
   message.innerHTML = `Your Akan Name is ${maleName[weekDays]}!`;
-
-
 } 
 
-else if (myGender ==2) {
+    else if (myGender ==2) {
 
     message.innerHTML = `Your Akan Name is ${femaleName[weekDays]}!`;
-  
-
 }
 
 
